@@ -15,3 +15,5 @@
     DB_DATABASE = YOUR_DATABASE_NAME
     PORT = 4000
     ```
+
+## Documentation - https://taskmanagementbackend-production-7cd5.up.railway.app/api-docs
