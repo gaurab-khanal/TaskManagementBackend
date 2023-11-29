@@ -17,7 +17,7 @@ servers:
       url:
         enum:
           - localhost:4000
-          - taskmanagementbackend-production-7cd5.up.railway.app/
+          - taskmanagementbackend-production-7cd5.up.railway.app
         default: localhost:4000
       protocol:
         enum:
