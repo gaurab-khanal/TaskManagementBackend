@@ -18,12 +18,12 @@ servers:
         enum:
           - localhost:4000
           - taskmanagementbackend-production-7cd5.up.railway.app
-        default: localhost:4000
+        default: taskmanagementbackend-production-7cd5.up.railway.app
       protocol:
         enum:
           - http
           - https
-        default: http
+        default: https
 
 
 paths:
