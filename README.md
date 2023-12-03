@@ -17,3 +17,8 @@
     ```
 
 ## Documentation - https://taskmanagementbackend-production-7cd5.up.railway.app/api-docs
+
+## Run
+```
+    npm run dev
+```
